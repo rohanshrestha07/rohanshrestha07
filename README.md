@@ -43,6 +43,5 @@
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanshrestha07&show_icons=true&locale=en&layout=compact" alt="rohanshrestha07" /></p>
 <p><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshrestha07&" alt="rohanshrestha07" /></p>
 <p><img align="left" width="670" src="https://github-readme-stats.vercel.app/api?username=rohanshrestha07&show_icons=true&locale=en" alt="rohanshrestha07" /> </p>
-<br>
-<br>
+
 <img align="left" width="100%" alt="Coding" border-radius="25px" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
