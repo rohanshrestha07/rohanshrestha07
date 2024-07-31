@@ -19,8 +19,6 @@
 <a href="https://linkedin.com/in/rohan-shrestha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shrestha07" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" border-radius="25px" src="https://i.pinimg.com/originals/5d/d5/24/5dd524fffcb77b34b939178bf9e1cad2.gif">
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
