@@ -45,4 +45,4 @@
 <p><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshrestha07&" alt="rohanshrestha07" /></p>
 <p><img align="left" width="670" src="https://github-readme-stats.vercel.app/api?username=rohanshrestha07&show_icons=true&locale=en" alt="rohanshrestha07" /> </p>
 
-<img align="left" width="100%" alt="Coding" border-radius="25px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="center" width="100%" alt="Coding" border-radius="25px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
