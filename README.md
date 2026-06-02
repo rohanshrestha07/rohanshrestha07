@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanshrestha07&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrestha07" /> </p>
 
-- 🔭 I’m currently working on **Student Registration**
+- 🔭 I’m currently working on **ERP System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS Cloud**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C/C++**
+- 💬 Ask me about **JavaScript,React,Next.js,Node.js,Express,UI/UX**
 
 - 📫 How to reach me **rohanxtha2060@gmail.com**
 
